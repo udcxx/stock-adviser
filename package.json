@@ -1,0 +1,19 @@
+{
+  "name": "stock-adviser",
+  "version": "1.0.0",
+  "description": "This is a tool that helps you select a stock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udcxx/stock-adviser.git"
+  },
+  "author": "udcxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udcxx/stock-adviser/issues"
+  },
+  "homepage": "https://github.com/udcxx/stock-adviser#readme"
+}
